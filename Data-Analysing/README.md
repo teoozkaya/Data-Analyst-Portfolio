@@ -1,3 +1,4 @@
+# Data Analysing Projects
 In this folder you can find projects I have completed. They are mostly focused on data prepping and dat analysing using the jupyter notebook.
 I'll list the each notebook with a short description
 
