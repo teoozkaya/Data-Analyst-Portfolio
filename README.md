@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-My collection of data analysis/science projects to demonstrate my skill sets and knowledge,
+My collection of data analysis/science projects to demonstrate my skill sets and knowledge.
 
 ## Contents
 * Data Analysis: A data analysis oriented projects which also includes Data Prepping and Visualization. Mostly used libraries are Numpy and Pandas.
