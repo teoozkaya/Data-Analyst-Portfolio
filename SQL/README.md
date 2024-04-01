@@ -3,5 +3,6 @@ In this folder you can find projects utilizing SQL. They are focused on formulat
 
 ## Contents
 * bike store
-https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database/data
-A sample database of a bike store.
+
+  https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database/data
+  A sample database of a bike store.
